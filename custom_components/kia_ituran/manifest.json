@@ -1,0 +1,11 @@
+{
+  "domain": "kia_ituran",
+  "name": "Kia EV (Ituran)",
+  "codeowners": ["@tomerezra"],
+  "config_flow": true,
+  "documentation": "https://github.com/tomerezra/ha-kia-ituran",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/tomerezra/ha-kia-ituran/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}
